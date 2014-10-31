@@ -1,0 +1,13 @@
+CMS
+
+O que Signigfica?
+CMS == Content Management System (Sistema de Gestão de Conteúdo)
+
+O que é?
+São plataformas gestoras de websites, portais e intranets
+Proporsionam ferramentas necessárias para criar, administrar (editar e inserir) conteúdo em tempo real
+Não necessita de conhecimento tecnicos para adminstrar
+
+Objetivo: estruturar e facilitar a criação, administração, distribuição, publicação e disponibilidade da informação, tendo como principal caracteristica a quantidade de funções presentes.
+
+
