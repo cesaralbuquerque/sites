@@ -1,0 +1,24 @@
+a.up
+{
+	border-top: 2px solid #fff
+}
+
+a.down
+{
+	border-bottom: 2px solid #fff
+}
+
+a.next
+{
+	border-right: 2px solid #2c2c2c
+}
+
+a.prev
+{
+	border-left: 2px solid #2c2c2c
+}
+
+a.down::before,a.down::after,a.up::before,a.up::after,a.next::before,a.next::after,a.prev::before,a.prev::after
+{
+	display: none;
+}
